@@ -5,6 +5,6 @@ title: Alle titlene
 	
 	<div class="container">{% for post in site.posts %}{% unless post.next %}
 		<h2>{{ post.date | date: '%Y' }}</h2>{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}<h2>{{ post.date | date: '%Y' }}</h2>{% endif %}{% endunless %}
-		<h3 class="minus">{{ post.date | date: "%B %d" }}: <a href="{{ site.url }}{{ post.url }}">{% if post.artist %}{{ post.artist }} - {% endif %}{{ post.title }}</a> in <a href="{{ site.url }}/{{ post.categories }}">{{ post.categories }}</a></h3>
+		<h3 class="minus">{{ post.date | date: "%B %d" }}: <a href="{{ site.url }}{{ post.url }}">{% if post.artist %}{{ post.artist }} - {% endif %}{{ post.title }}</a></h3>
 		<p>{% if post.description %}{{ post.description }}{% endif %}</p>{% endfor %}
 	</div>

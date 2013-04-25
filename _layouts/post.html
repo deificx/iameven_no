@@ -6,14 +6,12 @@ layout: main
 		<div class="section {{ page.category }}">
 
 			<h1 class="title">{{ page.title }}</h1>
-			{% if page.artist %}<h2>by {{ page.artist }}</h2>{% endif %}
 
 			{{ content }}
 
 		</div>
 
 		<div class="aside">
-			<div class="post_date">{{ page.date | date_to_long_string }}</div>
-			<div class="category"><a href="{{ site.url }}/{{ page.categories }}">{{ page.categories }}</a></div>
+			<div class="post_date">{{ page.date | date: "%Y-%m-%d" }}</div>
 		</div>
 	</div>
