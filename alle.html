@@ -1,0 +1,48 @@
+---
+layout: main
+title: Alle postene
+---
+
+	{% for post in site.posts reversed %}{% unless post.next %}
+		<div class="container"><h2>{{ post.date | date: '%Y' }}</h2></div>{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}<div class="container"><h2>{{ post.date | date: '%Y' }}</h2></div>{% endif %}{% endunless %}
+	<div class="container">
+		<div class="section {{ post.category }}">
+
+			<h1 class="title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+
+			{{ post.content }}
+
+		</div>
+
+		<div class="aside">
+			<div class="post_date">{{ post.date | date_to_long_string }}</div>
+			{% if post.images %}
+				<h3>Bilder</h3>
+				{% if post.images == 1 %}
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large01.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="01"></a>
+				{% endif %}
+				{% if post.images == 2 %}
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large01.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="01"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large02.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="02"></a>
+				{% endif %}
+				{% if post.images == 3 %}
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large01.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="01"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large02.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="02"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large03.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="03"></a>
+				{% endif %}
+				{% if post.images == 4 %}
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large01.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="01"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large02.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="02"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large03.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="03"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large04.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="04"></a>
+				{% endif %}
+				{% if post.images == 5 %}
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large01.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="01"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large02.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="02"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large03.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="03"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large04.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="04"></a>
+					<a href="{{ site.url }}/postbilder/{{ post.id }}/large05.jpg"><img src="{{ site.url }}/postbilder/{{ post.id }}/thumb01.jpg" alt="05"></a>
+				{% endif %}
+			{% endif %}
+		</div>
+	</div>{% endfor %}
