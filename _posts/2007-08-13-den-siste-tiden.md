@@ -16,4 +16,4 @@ I helgen hadde jeg en utflukt til Jørpeland med Robert og Marita. Vi var på et
 Aleksander har satt opp et [forum][2] og alle som vil er velkomne til å registrere seg å delta. Om det blir noe aktivitet der vil bare tiden vise.
 
  [1]: http://pic5.piczo.com/my-roses-red/?g=44489329&amp cr=5
- [2]: http://forum.artifushion.com/
+ [2]: http://forum.amvfx.com/

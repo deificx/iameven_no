@@ -11,7 +11,7 @@ Ellers var jeg innom kinoen i Sandnes i går og så [Over the hedge][5], med eng
 
 De som kjenner meg vet at jeg kjøper endel musikk. I går fikk jeg nok en CD i posten: [Atlas Plug - 2 days or die][9]. Det er noe av den råeste breakbeaten jeg noensinne har hørt. Sterkt tilknyttet spill som [Rallisport Challenge 2][10] og [PGR3][11] har jeg hørt mye på musikken tidligere, men den har til nå vert uopnåelig. Så man kan trygt si at et smil formet seg om munnen min da pakken lå der og lyste opp hele postkassa. Hvis du liker breakbeat, vil du elske Atlas Plug. Even anbefaler. Hmm, bør lage en seksjon om det.
 
- [1]: http://artifushion.com
+ [1]: http://amvfx.com
  [2]: http://www.trackmanianations.com/indexUk.php
  [3]: http://www.trackmaniasunrise.com/indexUk.php
  [4]: http://www.blizzard.com/war3x/

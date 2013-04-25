@@ -23,4 +23,4 @@ Edit: Jeg glemte jo å nevne at [Aleksander][5] har fått opp hjemmeside igjen m
  [2]: bildegalleri/tur
  [3]: bildegalleri/event
  [4]: bildegalleri/hverdag
- [5]: http://artifushion.com
+ [5]: http://amvfx.com

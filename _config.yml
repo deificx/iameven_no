@@ -1,3 +1,4 @@
 permalink: pretty
 url: ''
 # url: http://iameven.com/no
+markdown: rdiscount
