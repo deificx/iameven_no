@@ -15,8 +15,9 @@ title: Alle postene
 		</div>
 
 		<div class="aspide">
-			<div class="post_date">{{ post.date | date_to_long_string }}</div>
+			<div class="post_date">{{ post.date | date: "%Y-%m-%d" }}</div>
 			{% if post.images %}
+				<br>
 				<br>
 				<h3>Bilder</h3>
 				{% if post.images == 1 %}
