@@ -3,7 +3,7 @@ layout: post
 title: "Ett nytt hjem"
 date: 2008-08-24 00:20:13
 category: posts
-id: 67
+pid: 67
 images: 5
 ---
 Jeg har [flyttet nok en gang][1], men denne gangen var det bittelitt spesielt. Jeg flyttet hjemmefra, som man sier. Vekk i fra mamma. Håvard og jeg har sett litt på leiligheter fra våren av, men leiemarkedet i Stavangerområdet er ekstremt dårlig for tiden. Med Stavangerområdet mener jeg Sola, Sandnes, Stavanger og områdene i mellom disse. For et par uker siden ble Uy (Ja, det er et navn) med på jakten da han ble kastet ut hjemmefra, mer eller mindre. Vi fant en leilighet veldig raskt og onsdag den 13. august var vi innom å så på den. Fredagen skrev vi kontrakt og på søndag begynte vi å flytte inn. Så den siste uken har blitt brukt på det prosjektet. For det tar som man vet, tid å flytte. I likhet med ting. Så nå bor jeg på Røyneberg i lag med Håvard og Uy. Noe som har gått kjempegreit, iallefall i en uke, men ingenting tyder på at det ikke skal gå bra fremover. 

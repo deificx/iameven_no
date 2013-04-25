@@ -3,7 +3,7 @@ layout: post
 title: "Gode spill fremover"
 date: 2008-01-16 23:46:51
 category: posts
-id: 43
+pid: 43
 ---
 Det er ikke så ofte jeg er innom å sjekker, men av og til kommer jeg på det. Demoer på Xbox live market place er det egentlig for få av. De burde kunne tilby alle kommende spill i demoform, synes nå jeg. Og det var akkurat nå, under testingen av en ny demo at jeg fant en ny perle i havet av spill. De sier at det skal være vanskelig å toppe spillåret 2007, men det sa de vel også om 2006, 2005 etc. 
 

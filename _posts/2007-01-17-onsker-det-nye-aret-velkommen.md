@@ -3,7 +3,7 @@ layout: post
 title: "Ønsker det nye året velkommen"
 date: 2007-01-17 13:46:24
 category: posts
-id: 10
+pid: 10
 ---
 Juletider kom og gikk. Jeg gikk med post. Det ble på en måte den julen med minst jul i for min del. Tradisjonen er å sløve rundt og gjerne LANe en del med de som orker å dra laptopen sin bort til meg. Men jeg hadde i det minste en produktiv jul. Jeg skapte penger, og fikk til og med noen kroner i julegave. Ikke at jeg hadde så mange fridagene, men de som var ble stort sett brukt til frotsing. Utrolig hvor mange påkrevde måltider det er i løpet av en sånn dag som Juleaften. Frokost, Brunch, Lunch, Grøt (Tradisjon) Middag, En ekstra porsjon for at ikke mat skal gå til spille, desert (riskrem) og ikke glem den obligatoriske småspising under pakkeåpning. Føler meg som en [Hobbit][1]. Og som om ikke det var nok skal man jo ha rester før man legger seg. 
 

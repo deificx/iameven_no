@@ -3,7 +3,7 @@ layout: post
 title: "Den siste tiden"
 date: 2007-08-13 01:05:09
 category: posts
-id: 26
+pid: 26
 ---
 Så jeg begynte å skrive en post om hvordan Roskilde Festival hadde vert, men dum som jeg var klarte jeg å lukke vinduet med posten, så jeg mista på en måte alt og velger derfor heller å bare si at Roskilde var konge, tross været og det første døgnet. Kan absolut annbefale en tur ned dit og vi har allerede begynt å planlegge neste års tur.
 

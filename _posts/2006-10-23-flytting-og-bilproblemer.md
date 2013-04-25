@@ -3,7 +3,7 @@ layout: post
 title: "Flytting og bilproblemer"
 date: 2006-10-23 18:12:36
 category: posts
-id: 5
+pid: 5
 ---
 PCen min står fremdeles hos Aleksander, mye grunnet det at jeg for tiden flytter. Vi, altså familien og jeg, har forflyttet oss nærmere 2 kilometer til et nybygd hus på Skadberg øst. Øst, høres ikke det fancy ut? Så langt har jeg ikke noe imot den forflyttningen, vi er ikke helt på plass enda, men vi nærmer oss. Jeg får ikke eget rom før juletider, eller deromkring, men jeg klager ikke. Jeg bor jo tross alt gratis.
 

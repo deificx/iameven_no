@@ -3,7 +3,7 @@ layout: post
 title: "Crackdown"
 date: 2007-02-28 19:01:04
 category: posts
-id: 13
+pid: 13
 ---
 Crackdown kom på fredag, i hus på mandag, og endte på tirsdag. I hvertfall hovedhistorien, for første gang. Det betyr på ingen måte at jeg er ferdig med spillet. Bare at jeg har endt det, en gang. Det er så utrolig gøy å bare være i Pasific city. Spillet er nesten en kombinert plattformer, tredjepersons skytespill og heltespill. For mannen er en helt. Mennesker generelt skulle hatt de egenskapene. Hoppe nesten 10 meter høyt, løfte ting på nærmere 2 tonn og kaste dem nærmere 43 meter. Utrolig hvor lett det er å komme seg rundt i en by fylt med skyskrapere ved hjelp av hopping og løping. I et spill hvor jeg kan ta hvilken bil jeg vil har jeg aldri vert så lite i en bil. Og derfor har jeg heller ikke hørt noe særlig på musikk mens jeg har spilt. Kansje det finnes, men jeg har ikke funnet valget med å høre på musikk utenom å være i bil på spillet. Man skulle tro at med en biomekanisk rustning også skulle kunne få en MP3spiller med seg på tur. Kansje de måtte kutte på bekostningene i "the agency". Grunnen til at jeg tar det opp er jo såklart at spillet har utrolig digg musikk, som jeg ikke får hørt fordi jeg nesten ikke var i biler, og jeg elsker musikk. 
 

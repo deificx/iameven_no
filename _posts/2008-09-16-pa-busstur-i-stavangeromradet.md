@@ -3,7 +3,7 @@ layout: post
 title: "På busstur i Stavangerområdet"
 date: 2008-09-16 10:02:58
 category: posts
-id: 69
+pid: 69
 images: 1
 ---
 Så jeg har klart kunststykket, å miste nøklene. Før du blir imponert kan jeg fortelle deg at det ikke var særlig vanskelig. Det skjedde faktisk helt av seg selv. Jeg begynte så å resonere meg frem til hvor disse kunne ha blitt av og fant etterhvert ut at bussen virka som et sannsynlig mål. Jeg hadde jo tross alt busset endel de siste dagene. Hittegodssentralen til Kolumbus er hos Veolia, på Revheim. Jeg hadde også som mål å komme meg ut til Kvadrat i løpet av dagen, noe som etterhvert resulterte i ganske hefitg bussing (se bildet).

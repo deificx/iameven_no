@@ -3,7 +3,7 @@ layout: post
 title: "Jack is back!"
 date: 2007-06-01 19:48:07
 category: posts
-id: 19
+pid: 19
 ---
 Da har jeg begynt å se sesong 6 av 24. Kanskje ikke et så veldig strategisk trekk rundt eksamnene for jeg har en sterk tendens til å bli hekta når jeg først begynner. Men nå da jeg allerede har pløyd meg igjennom de første 16 episodene kan jeg liksom ikke gi meg. Jeg er utrolig fasinert over hvordan de klarer å holde spenningsnivået oppe på en serie i sin sjette sesong. Noe har de gjort riktig. Det hender jeg begynner på en og annen serie men alle har en tendens til å spinne seg utover i evigheten (jeg ser stygt på deg Lost) eller bli kanselert (stakkars Firefly). 
 

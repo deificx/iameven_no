@@ -3,7 +3,7 @@ layout: post
 title: "Indiana Jones"
 date: 2007-11-04 23:50:55
 category: posts
-id: 31
+pid: 31
 ---
 Ja, filmene begynner å bli gamle og effektene er vel ikke helt på topp. Men det er tross alt snakk om Steven Spielberg og Harrison Ford. Indiana Jones er en av mine helter som du kan se på dump siden under fiktive helter. Han er arkeolog sier de, men filmene er veldig actionfylte og jeg greier ikke helt å se for meg at alle arkeologer har en like tøff hverdag. Tvert imot faktisk. Han graver egentlig ikke så mye heller. Han er mer en eventyrer. Steven Spielberg er jo også en helt da han har levert mange toppklasses actionfilmer. Robert og jeg satt oss like greit ned å så triologien i går. Det er noe spesielt ved å se filmer i ett. Forrige helg kjempet vi oss igjenom Lord of the rings, extended edition vel og merke, å det tok oss bare 11 små timer. Jeg fikk med meg masse detaljer jeg ikke kunne huske og det var vel verdt det. Det er fantastiske filmer. Så nå prøver jeg å finne flere filmserier jeg kunne tenke meg å se i ett. 
 

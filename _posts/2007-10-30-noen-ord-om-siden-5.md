@@ -3,7 +3,7 @@ layout: post
 title: "Noen ord om siden 5"
 date: 2007-10-30 23:47:35
 category: posts
-id: 29
+pid: 29
 ---
 Så da har siden nok en gang vert igjennom en liten forbedringsprosess. Det er starten på planen om å strukturere siden litt bedre, rydde opp i HTML og PHP delen, samt gjøre den litt mer oversiktlig. Jeg har valgt å fjerne sidebaren. Mye på grunn av at jeg mangler en fin måte å få den der på, men følte at man strengt tatt ikke trenger å liste de siste postene i menyen. Jeg har derfor valgt å liste dem under de 3 siste postene og i sin fulle helhet på arkiv siden. Jeg vet ikke helt hvor jeg skal gjøre av lenkene og velger derfor foreløpig å liste dem i bunnen av alle sidene. Jeg kommer mest sannsynlig til å lage en egen side for dem før eller siden, men har ikke følt det store behovet da det bare er 4, foreløpig. 
 

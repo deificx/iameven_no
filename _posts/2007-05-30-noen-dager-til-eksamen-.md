@@ -3,7 +3,7 @@ layout: post
 title: "Noen dager til eksamen."
 date: 2007-05-30 05:32:55
 category: posts
-id: 18
+pid: 18
 ---
 Da er det den tiden av året igjen, som man sier. Som kanskje noen har fått med seg har jeg brukt det siste året mitt på forkurs til ingeniør. I januar fant jeg ut at jeg ikke ville bruke det, men jeg kan da fremdeles fullføre det jeg har begynt på. Jeg skal begynne på Noroff til høsten. Skoleplass og lån er ordnet, så nå er det egentlig bare å vente. Jeg har ikke av den grunn bestemt meg for å bunkre meg ned i kjelleren til i høst. Jeg har faktisk flere planer for sommeren. Jeg kan neste ikke kalle det sommerferie lengre, for den tiden er over. Nå må jeg jo jobbe når jeg ikke er vekke.
 

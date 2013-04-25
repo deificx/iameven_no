@@ -3,7 +3,7 @@ layout: post
 title: "Sonic the hedgehog"
 date: 2007-06-20 09:47:38
 category: posts
-id: 24
+pid: 24
 ---
 Jeg husker det enda ganske godt. Jeg hadde fått en Sega Master System II i gave og noen kroner til å kjøpe meg et spill. Jeg og mamma dro til en butikk hvor en Sega var utstilt med demoen til Sonic the hedgehog 2. Det tok ikke lange tiden før jeg fikk det med meg i en liten pose og jeg brukte bra mye tid på det spillet. 
 

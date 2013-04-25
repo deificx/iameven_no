@@ -3,7 +3,7 @@ layout: post
 title: "Nok en om den siste tiden"
 date: 2007-10-04 13:38:56
 category: posts
-id: 27
+pid: 27
 ---
 Så i bunn og grunn har jeg ikke klart å oppdatere siden min siden før jeg begynte på Noroff. Ja, jeg har vert opptatt, men ikke nødvendigvis så opptatt at jeg ikke skulle klare å skrive noe her. Så hva har jeg gjort? [3D][1]. Det er ikke bare jeg som har gjort alt det så klart. Det er en samling av det meste fra klassen i et relativt fancy dump-mappesystem jeg har lagt til. 
 

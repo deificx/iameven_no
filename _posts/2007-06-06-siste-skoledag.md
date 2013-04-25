@@ -3,7 +3,7 @@ layout: post
 title: "Siste skoledag"
 date: 2007-06-06 13:08:06
 category: posts
-id: 22
+pid: 22
 ---
 Da var min siste eksamen over. Jeg møtte opp i samme klasseromsom jeg hadde eksamenen i på fredag. Der skulle jeg selvfølgelig ikke være. Jeg fant et av de andre klasserommen som det var eksamen i. Der var det heller ikke, men det hang en liste over hvilke klasserom som var i bruk heldigvis. 6 stykker. Det viste seg å være det siste jeg sjekka. Så det ble en noe hektisk joggetur i etasjene før jeg kom meg inn i riktig klasserom på slaget 9. Det gikk gjerne ikke så bra som det burde, men jeg klager egentlig ikke. Jeg tror jeg skal stå og jeg kommer uansett ikke til å ha bruk for dette til neste år. Om jeg står er det bra, men ingen krise dersom jeg stryker.
 

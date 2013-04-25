@@ -3,7 +3,7 @@ layout: post
 title: "Splinter Cell"
 date: 2008-01-08 01:20:59
 category: posts
-id: 40
+pid: 40
 ---
 Et av spillene jeg virkelig ser frem til i år er Splinter Cell: Conviction. Noe som på en måte er litt rart siden jeg har unngått store deler av serien. Jeg kjøpte Splinter cell til X-box med engang det kom ut men spilte egentlig aldri igjennom det. Jeg syns å huske at det ble ganske vanskelig ut mot slutten og jeg bare ga opp fordi jeg måtte gjøre et godt stykke på nytt. Noe jeg, som tidligere nevnt, missliker. Derfor Hoppet jeg bare galant over Pandora tomorrow og Chaos theory som er nummer to og tre i serien (Jeg kjøpte musikken til Chaos theory utrolig nok). Når det fjerde spillet, Double agent kom ut, ble jeg intresert igjen. Jeg tenkte ikke så mye over hvor godt jeg egentlig likte spillet og kanskje ville komme til å like de tidligere spillene før jeg leste en liste over "spill vi gleder oss til i år", hvor Conviction var oppført. Suget etter å spille Splinter cell igjen var stort og jeg bestemte meg for å lete opp de spillene jeg manglet å spille igjennom serien fra begynnelse til foreløpig slutt. Noe som så langt har vert en stor glede. Jeg har bare gjort de to første oppdragene på Splinter cell (#1) og de er fantastiske. Spillet er ganske utfordrende, men ikke slik at det blir frustrerende. 
 

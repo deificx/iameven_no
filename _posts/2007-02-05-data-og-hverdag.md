@@ -3,7 +3,7 @@ layout: post
 title: "Data og hverdag"
 date: 2007-02-05 03:22:44
 category: posts
-id: 12
+pid: 12
 images: 2
 ---
 <p>Så de siste dagene har jeg gradvis funnet løsninger som gjør hverdagen lettere. I hvertfall på PC. Om ikke lettere, så ihvertfall stiligere. Jeg instalerte [Windows Media Player 11][1] på nytt her om dagen i håp om at jeg kunne sette opp spillelister som xbox 360 lett kunne spille av. Da dette levde opp til forventningene fant jeg ut at jeg kanskje skulle begynne å bruke WMP som min standard avspiller. Jeg kunne ihvertfall prøve en stund, siden jeg alltid har kritisert men ikke prøvd den ut til sin fulle rett. Det første som har overrasket meg er den oversiktlig måten album blir lagt ut på, som absolutt kommer til sin fulle rett ved hjelp av CD-platenes koverbilder. <ins>Se bilde listet til høyre</ins>. Det andre jeg liker er måten man lager og organisere spillelister siden det er så lett å finne frem blandt album. Når det kommer til den mer negative siden savner jeg hotkeys. Det ser ikke ut til å eksitere en plug-in for dette en gang. Vel, det kan jeg alltids leve med.</p>

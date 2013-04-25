@@ -3,7 +3,7 @@ layout: post
 title: "Gjestebok åpnet"
 date: 2008-01-19 22:41:54
 category: posts
-id: 44
+pid: 44
 ---
 Bare en veldig kort update for å fortelle at Gjesteboken nå er åpen og brukbar. Marita mente jeg burde ha en fordi, og jeg siterer, "å skrive ein mail te deg e alt for tungvindt nå ta dags :P"
 

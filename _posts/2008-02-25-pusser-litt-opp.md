@@ -3,7 +3,7 @@ layout: post
 title: "Pusser litt opp"
 date: 2008-02-25 00:40:06
 category: posts
-id: 51
+pid: 51
 ---
 Jeg har satt opp noen regler på word of the day, bare for å vise hvilke begrensninger som er til stede. Jeg fant ut at det ikke kommer til å ta så lang tid før de blir dyttet så langt ned at nye (Hvis de finnes?) til siden ikke ser de, og derfor lagte jeg en hopp til meny på toppen av den siden. Det følte jeg egentlig var en såpass god idé at jeg har implementert det på alle sidene jeg føler kan ha et snev av behov for akkurat en slik funksjon. Det vil si alle utenom sitater og gjestebok. Dessuten rulerte jeg litt på menyen igjen. Det kan sikkert ta litt tid før jeg finner en inndeling jeg er fornøyd med.
 

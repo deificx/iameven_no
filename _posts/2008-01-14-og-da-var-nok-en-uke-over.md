@@ -3,7 +3,7 @@ layout: post
 title: "Og da var nok en uke over"
 date: 2008-01-14 21:59:10
 category: posts
-id: 42
+pid: 42
 ---
 Ikke at jeg ikke har vert innom her siden forrige mandag. Jeg har faktisk skrevet to ganske solide poster siden den gang. Jeg begynner faktisk å tro at jeg vil klare dette, som i en oppdatering hver mandag. Men jeg bør kanskje ikke forsnakke meg. Det er fremdeles bare andre gang dette skjer.
 

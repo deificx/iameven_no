@@ -3,7 +3,7 @@ layout: post
 title: "Første mandag"
 date: 2008-01-07 11:16:22
 category: posts
-id: 39
+pid: 39
 ---
 Vel, ikke som i første gang jeg oppdaterer på en mandag, men den første mandagen i en rekke mandager hvor jeg har lovt meg selv at jeg skal oppdatere. Og så langt kan man vel si at det går bra. 
 

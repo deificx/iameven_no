@@ -3,7 +3,7 @@ layout: post
 title: "alander.org"
 date: 2008-06-26 05:20:43
 category: posts
-id: 64
+pid: 64
 ---
 [alander.org][1] er den nye portfoliosiden min, hvor jeg viser frem 3Darbeidene mine og det som skulle være nødvendig å tilknytte disse. Da den er ganske ny vil det nok fortløpende komme endringer til siden, men slik det funker nå er at man får opp det siste arbeidet mitt når man kommer inn på forsiden, og ved å holde over bildet kan bla seg tilbake til tidligere arbeider. Jeg skal så fort jeg får opp en genial løsning på det lage en side som lister alle arbeidene mine. Men den er i det minste oppe å igang, så jeg må bare se til å begynne å fylle den med ting. Jeg må også lage en side med kontaktinformasjon.
 

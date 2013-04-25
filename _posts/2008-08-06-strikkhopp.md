@@ -3,7 +3,7 @@ layout: post
 title: "Strikkhopp"
 date: 2008-08-06 12:27:13
 category: posts
-id: 66
+pid: 66
 images: 3
 ---
 Så det viste seg nok en gang at jeg ikke klarte å holde en jevn oppdateringsplan her på siden, men jeg skal gjøre mitt beste for å kaste meg opp på hesten igjen. Vanligvis har jeg gitt opp det å oppdatere siden når jeg har falt ut slik tidligere, men jeg har jo stort sett vert ganske flink med å få ned noen ord her. Jeg har i det minste ikke falt ned på [Håvard][1] sitt nivå enda.

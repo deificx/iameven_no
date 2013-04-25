@@ -3,7 +3,7 @@ layout: post
 title: "Ich bin ein Berliner!"
 date: 2007-06-18 07:56:08
 category: posts
-id: 23
+pid: 23
 ---
 Eller noe sånt. Atle, Henrik og jeg var i det minste i Berlin en tur. På søndag den 10. juni klokka 15:10 gikk ferden til Berlin. Det var så klart etter innsjekking, et lite måltid og ei pils på flyplassen. Vi var så klar som vi antageligvis kunne bli. Etter noen krongling fant vi toget inn til Berlin, men ga fint opp forsøket på å forstå T-banesystemet og tok heller drosje til hotellet som lå rett ved Checkpoint Carlie. Rommet var ikke av dårlig standard og på hele 60 kvadrat. 2 soverom og 2 bad hadde vi. Følte oss nesten som konger. Vi tok oss en god tur før vi fant en restaurant med kanalkanten. Maten var grei men noe dyr. Vi fant oss en billigere og mer folkefylt plass hvor vi tok noen øl før vi dro tilbake til hotellet og tok kvelden, som det heter på fint. Det var etter at vi hadde fått i oss en dürüm. En rullekebablignende sak som jeg syns var bedre enn kebab, tenk.
 

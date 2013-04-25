@@ -3,7 +3,7 @@ layout: post
 title: "Casino royale"
 date: 2006-11-25 22:07:01
 category: posts
-id: 8
+pid: 8
 images: 1
 ---
 <p>[Aleksander][1], Aasmund og jeg var på en av våre utflukter i går <del>(les om en tidligere utflukt).</del> <ins>Aleksander har i ettertid fjernet den</ins>. Vi hadde bestemt oss for å se den nye James Bond filmen så tidlig som mulig. Uansett pris eller sted. Vi var litt sent ute med å skaffe oss biletter. Bare noen timer før forestillingen ble de kjøpt opp av Aasmund. Det ble i Sal 1 i Stavanger Kino. Siste gang jeg skal dit og se film. Lyden er generelt lav i salen og man hører alt for godt lydene folk lager rundt omkring. Noen sitter og snakker og andre graver i godteposer. Ikke at det ikke skjer i andre kinosaler her i landet, men da blir det i det minste overdøvet av filmen. Dessuten er skjermen litt liten, men nok om det.</p>

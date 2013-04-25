@@ -3,7 +3,7 @@ layout: post
 title: "Noen ord om siden"
 date: 2006-09-27 16:20:03
 category: posts
-id: 2
+pid: 2
 ---
 Edit 7. november 2008. Har rettet opp i "feilinformasjon".
 

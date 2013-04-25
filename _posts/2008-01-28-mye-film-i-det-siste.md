@@ -3,7 +3,7 @@ layout: post
 title: "Mye film i det siste"
 date: 2008-01-28 11:33:53
 category: posts
-id: 47
+pid: 47
 ---
 På animefronten har jeg sett tre fantastiske filmer; [Princess Mononoke][1], [Spirited Away][2] og [Howl's Moving Castle][3] fra [Studio Ghibli][4]. I romjula, mens jeg gikk med post, fikk jeg med meg topp 20 lista av årets filmer fra filmpolitiet på P3. Noe overraskende fikk jeg høre at [My Neighbor Totoro][5] lå på sjetteplass. Sjokerende fordi de sa det var anime. Enda mer sjokerende når de sa den var fra 1988, da dette skulle være en liste ifra 2007. Tydeligvis var det norsk utgivelse i fjor. Jeg bestemte meg i det minste for å se den, men kom egentlig aldri så langt. Den gikk halveis i glemmeboka til Christopher (3D-film læreren) begynte å annbefale Studio ghibli anime. For om jeg egentlig ikke likte anime, burde jeg i det minste se de tre førstnevnte filmene.
 

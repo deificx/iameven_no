@@ -3,7 +3,7 @@ layout: post
 title: "LAN, film og musikk"
 date: 2006-10-10 22:57:36
 category: posts
-id: 4
+pid: 4
 ---
 Siden sist update har PCen min stått parkert hos [Aleksander][1]. Vi har et lite LAN som er en sammenkomst for en vennegjeng med datainteresser. Her brytes vi ned av junkfood, brus og å sitte stille foran en pcskjerm konstant. [Trackmania Nations][2] og [Trackmania Sunrise][3] har vært gjengangere denne gang. Selv foretrekker jeg Sunrise, men siden ikke alle har det og Nations er gratis, har begge blitt spilt. Vi spiller også en god dose [Warcraft III: The frozen throne][4]. Men kun for Towerdefensespillene som er brukerlagte spill.
 

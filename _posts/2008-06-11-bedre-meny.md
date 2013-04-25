@@ -3,7 +3,7 @@ layout: post
 title: "Bedre meny"
 date: 2008-06-11 05:44:20
 category: posts
-id: 61
+pid: 61
 ---
 Som respons på kritikk jeg fikk i fra Aleksander og Marita har jeg laget et nytt menysystem. Begge mente at den tidligere menyen var rotete og uoversiktlig og jeg håper at jeg har klart å løse det greit. 
 

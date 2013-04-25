@@ -3,7 +3,7 @@ layout: post
 title: "Og da gikk det plutselig en stund"
 date: 2008-12-24 06:27:29
 category: posts
-id: 73
+pid: 73
 ---
 Mye spilling, mange bra spill. Mye skole, mange viktige oppgaver og en eksamen. Mye vaksinering, vondt i venstre overarm. Oppdatering av designet på [alander.org][1] (Sjokk! Hvem hadde vel trodd at Even endret designet på hjemmesiden når det først var stemplet? Noe slikt har vel aldri hent før). Men jeg har heller ikke klart å fylle på med så mye innhold der. Mye tid, men jeg har heller ikke gjort så mye. Det har liksom vekslet mellom skole å spilling den siste tiden.
 

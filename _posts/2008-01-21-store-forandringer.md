@@ -3,7 +3,7 @@ layout: post
 title: "Store forandringer"
 date: 2008-01-21 15:14:40
 category: posts
-id: 45
+pid: 45
 ---
 Jeg har en gjerne litt skummel tendens til å redesigne siden ganske ofte. Om jeg ikke tar helt feil er dette fjerde gangen det skjer siden jeg opprettet iameven.com. Noe på grunn av at jeg blir litt lei designet, men gjerne hovedsaklig fordi jeg aldri var helt fornøyd i utgangspunktet. Så en av tingene jeg ønsket å gjøre var å plassere menyen i bunnen av siden å bringe den til toppen ved hjelp av CSS. Det for at siden skal være lettere å bruke på mobiltelefon eller andre håndholdte gadgets med nettleser. Ikke at menyen min er serlig stor, men planen er jo at den skal vokse. 
 

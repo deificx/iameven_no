@@ -3,7 +3,7 @@ layout: post
 title: "Snøhvit og de syv dvergene"
 date: 2008-01-10 08:01:10
 category: posts
-id: 41
+pid: 41
 ---
 Jeg kan ikke huske sist jeg så denne klassikeren, men er relativt sikker på at jeg har sett hele fra begynnelse til slutt før. Det var uansett hva vi gjorde på skolen i dag. Hvorfor? Fordi det er den første helaftens animasjonsfilmen noen sinne lagt. Kritikken da gikk på om noen virkelig kunne tenke seg å sitte å se på animasjon i over en time, men kritikerne tok så klart helt feil fordi animasjonsfilm eksisterer fremdeles. Hvis vi hopper frem 58 år i tid kommer vi til utgivelsen av Toy story. Den første helaftens 3D-animasjonsfilmen noen sinne lagt. Jeg husker selv at folk var skeptisk til om 3D var noe man kunne sitte å se på i over en hel time. Det var det så klart. For 3D har også vokst seg relativt stort og for min egen del håper jeg den veksten fortsetter. 
 

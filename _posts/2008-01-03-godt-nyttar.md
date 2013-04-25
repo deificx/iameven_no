@@ -3,7 +3,7 @@ layout: post
 title: "Godt nyttår!"
 date: 2008-01-03 16:20:36
 category: posts
-id: 38
+pid: 38
 ---
 Så da er det nye året i gang og som de fleste andre er jeg dum nok til å lage nyttårsforsetter. Jeg er ikke serlig kreativ heller. Jeg skal (prøve å) trene regelmessig og legge om kostholdet. Blandt annet skal jeg slutte med brus. Jeg skulle gjerne sagt junkfood også, men det er ofte det eneste alternativet vi har til mat på skolen og det går noen timer der. Jeg planlegger også å oppdatere her oftere. ikke at jeg er direkte misfornøyd med oppdateringsfrekvensen. Jeg gjør det bedre enn noen sinne. Jeg har forsøkt å gi meg selv en frist på dette tidligere uten å lykkes, men det er et nytt år med nye muligheter og alt det der. Så jeg skal fra nå av oppdatere hver mandag. Det betyr ikke at jeg ikke kan oppdatere oftere. Men jeg skal si noe hver mandag. Hvis [Loading ready run][1] kan lage en video i uken burde jeg kunne skrive en update i uken. 
 

@@ -3,7 +3,7 @@ layout: post
 title: "alander.org 3"
 date: 2008-10-07 01:43:26
 category: posts
-id: 71
+pid: 71
 ---
 En ny start for [alander.org][1].
 

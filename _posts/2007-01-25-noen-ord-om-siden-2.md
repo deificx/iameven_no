@@ -3,7 +3,7 @@ layout: post
 title: "Noen ord om siden 2"
 date: 2007-01-25 16:52:20
 category: posts
-id: 11
+pid: 11
 ---
 Da jeg startet denne siden hadde jeg som et mål å lære meg litt <abbr title="Hypertext Preprocessor">PHP</abbr>. PHP er et serverside skriptspråk som kan utføre alt i fra små enkle oppgaver fra å inkludere et element som skal være på alle sidene, som f.eks. en navigasjon til mer kompliserte databaseoppgaver. Med min manglende kunnskap til databaser utnytter jeg heller PHP til sitt fulle ved å lette oppgaven min med å oppdatere denne siden. Vanligvis, hvis man kun bruker <abbr title="Hypertext Markup Language">HTML</abbr>, må man manuelt føre inn en slik post som dette. Som du kansje har merket er det bare mine tre siste poster som listes på forsiden. I HTML måtte jeg ha fjernet den siste manuelt. Ikke det at det er snakk om en stor belastning i arbeid, men det er lettere dersom dette bare skjer av seg selv. Man må også oppdatere navigasjonen, slik at den stemmer. Her listes de 5 siste postene på min side og hvis man trykker på "+ vis alle..." kommer resten til syne. 
 

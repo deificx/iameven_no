@@ -3,7 +3,7 @@ layout: post
 title: "Gears of war"
 date: 2006-11-19 02:36:26
 category: posts
-id: 7
+pid: 7
 images: 1
 ---
 Ventinga var over. Spillet spilt. Man har en sterk tendens til å sette positive og negative sider ved ting man kjøper. Alt skal liksom kritisk gjennomgås for at man skal kunne gi en bedømmelse av produktet til sine nærmeste. Så hva syns jeg egentlig om [Gears of war][1]? Det var, for å si det som [Øverli][2], sjefolainen. Desverre hadde det jo også noen negative sider. For å starte med det enkle; lengden. Her har de bygget opp et helt nydelig og fantastisk miljø. Grafikken er den beste som er å oppdrive på et spill. Hva gjør de? Lager en rett over fem timer spilleopplevelse. Vel og merke på det enkleste nivået. Man kan slite noe mer og gjerne bruke lengre tid på de høyere gradene, men selv her er det måte på hvor mye mer tid man kan bruke. Orginalprisen på et spill er seks ganger den prisen jeg gladelig betaler for en DVD og da forventer jeg minst seks ganger lengde. Er jeg kresen når jeg ønsker et tolv timer langt spill? 

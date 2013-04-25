@@ -3,7 +3,7 @@ layout: post
 title: "Helgen og bildegalleriet"
 date: 2008-03-03 03:03:08
 category: posts
-id: 53
+pid: 53
 ---
 Så på fredag, mens jeg ventet på at Tom skulle komme slik at han kunne kjøre Aleksander og meg til Gitte fikk jeg sneket inn funksjonen for å hoppe frem og tilbake mellom bildene i galleriet. Men det er ikke den eneste forbedringen. Ettersom jeg fikk en del forskjellige gallerier opp ble det ganske rotete i menyen min og jeg måtte relativt fort fikse opp i akkurat det, fant jeg ut. Så derfor har jeg delt det opp i forskjellige gallerier. Med en ganske fri tolkning av [fest][1] vil nok det bli det mest oppdaterte galleriet fremover. [Tur][2] er tiltenkt reising vekk å være vekke i minst et døgn. Skuffende nok har jeg bare hatt kamera med meg på 2 slike turer så langt. Jeg fikk kameraet mitt i slutten av sommeren 2007 og kan heller ikke finne hverken det tidligere kameraet eller bildene jeg tok med det. [Event][3] er tiltenkt hendelser i nærmiljøet som f.eks konserter, sceneopptredener og festivaler jeg tilfeldig hvis skulle ende opp på. [Hverdag][4] er for enklere ting. Eksempelvis har jeg jo nå noen bilder av familien der og en tur rundt på Sola hvor Marita, Robert og jeg tok endel bilder.
 
