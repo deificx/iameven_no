@@ -12,13 +12,11 @@ images: 1
 
 Jeg har den siste tiden vert endel hos Aleksander da X-boxen min er der. Jeg kjøpte [Tiger Woods 2007][5] her om dagen. Har aldri helt forstått den navngivninga. Det er jo fremdeles 2006. Jeg kan med hånda på hjertet lett si at dette er det beste Woods spillet noensinne. Tidligere har de bare småfikset litt her og der, mens de nå har fikset opp en hel del. Grafikken er nydelig og før du uttaler deg og sier noe teit som for eksempel, "Golf er lamt og å spille det på konsoll er lamere". Prøv det først. Jeg er imot det meste av sporstspill og man må som regel være sportsidiot for å like disse. Det er ikke tilfelle med Tiger Woods. Jeg har faktisk fått lyst til å lære meg sporten siden første gang jeg prøvte et Tiger Woods spill. Tror at det var 2004.
 
-Andre nyheter er vel at [Play.com][6] har tilbud på [Fabric][7]-plater. Noe som går kraftig utover økonomien.
+Andre nyheter er vel at Play.com har tilbud på Fabric-plater. Noe som går kraftig utover økonomien.
 
-<p><span class="gone">PS. Prøv dette litt artige <a href="http://www.mcsaatchi.webcentral.com.au/tennischallenge/optus_tennis_site_edited.html">Flashspillet</a> som går ut på å holde en ball i luften ved å trykke på den.</span> Du må ha <a href="http://www.adobe.com/products/flashplayer/">Flash player</a> instalert for å se Flash.</p>
+<p><del>PS. Prøv dette litt artige Flashspillet som går ut på å holde en ball i luften ved å trykke på den.</del></p>
 
  [2]: http://en.wikipedia.org/wiki/Parkour
  [3]: http://www.imdb.com/name/nm0000112/
  [4]: http://www.imdb.com/name/nm0185819/
  [5]: http://www.tothegame.com/game.asp?id=5610
- [6]: http://play.com
- [7]: http://www.fabriclondon.com/label/home.php

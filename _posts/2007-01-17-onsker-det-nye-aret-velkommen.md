@@ -19,4 +19,4 @@ Gårsdagen gikk til å sette sammen en PC. [Aleksander][3] hadde et ønske om at
  [2]: http://pic5.piczo.com/my-roses-red/?g=29070360&
  [3]: http://amvfx.com
  [4]: http://www.imdb.com/title/tt0457430/
- [5]: http://www.nrk.no/programmer/radio/filmpolitiet/
+ [5]: http://p3.no/filmpolitiet/

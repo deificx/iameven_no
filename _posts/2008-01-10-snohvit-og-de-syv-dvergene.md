@@ -18,4 +18,4 @@ I begynnelsen av februar reiser jeg med noen fra klassen til [Animex][2] i Middl
 Jeg har også fyllt på med endel sitater.
 
  [1]: http://www.imdb.com/name/nm0143314/bio
- [2]: http://animex.net/
+ [2]: http://animex.tees.ac.uk/

@@ -16,4 +16,4 @@ Tom, Astrid og jeg dro opp til Telemark en tur et par uker tilbake. Målet var �
 
 Jeg presenterer noe øyegodteri med 3 bilder jeg fant for å teste ut den nye bildevisningen min. Det første bildet er av operahuset i Bjørvika, Oslo. Det andre er fra Påskeøya og det siste er av Aten hvor du ser litt av Akropolis. Har sett at Håvard gjør dette et par ganger og fikk litt lyst til å etterligne hva han gjør på også dette området. Det betyr at jeg skal prøve å samle på kule bilder jeg kommer over når jeg ferder rundt på nettet, hvis jeg husker det.
 
- [1]: http://havard.awegasm.net
+ [1]: http://hermiene.net

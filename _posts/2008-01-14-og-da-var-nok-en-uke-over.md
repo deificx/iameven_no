@@ -16,9 +16,9 @@ Jeg har enda ikke klart å komme igjennom Splinter Cell (#1), så det er godt at
 Forresten, hvis du ikke har noe bedre å gjøre på de neste timene, se [A Human Story of Computer Animation][7]. Brad Bird, Ed Catmull, Alvy Ray Smith og Andrew Stanton fra Pixar har en samtale med Michael Rubin om hvordan 3D-animasjon har utviklet seg, hvordan det startet og hvordan de tror det vil fortsette. Om du ikke er intresert i temaet kan den uansett være verdt å få med seg bare for de mange humoristiske innspillene.
 
  [1]: http://www.marekdenko.net/
- [2]: http://psanitra.com/2006/
+ [2]: http://www.psanitra.com/2006/
  [3]: http://speeddemosarchive.com/
  [4]: http://www.123spill.no/
- [5]: http://www.ocremix.org/
+ [5]: http://ocremix.org/
  [6]: http://www.hybridized.org/
- [7]: http://www.computerhistory.org/events/index.php?id=1114720561
+ [7]: http://www.youtube.com/watch?v=YjSExqtiIyg

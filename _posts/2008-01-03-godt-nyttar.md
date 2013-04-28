@@ -14,4 +14,4 @@ Jeg hadde en opprydding i CDsamlingen her om dagen og det gikk nok en gang opp f
 Så nå da jeg har lovt mye kan det jo bli spennende å se om noe av det vil bli holdt. Godt nyttår!
 
  [1]: http://loadingreadyrun.com/
- [2]: http://havard.awegasm.net/
+ [2]: http://hermiene.net/
