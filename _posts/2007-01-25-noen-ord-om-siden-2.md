@@ -18,4 +18,4 @@ Det siste jeg har gjort er å fjerne den lille seksjonen "om meg" i toppen av na
 For intreserte, her er [Noen ord om siden][2].
 
  [1]: http://hermiene.net
- [2]: {{ site.url }}/no/posts/2006/09/27/noen-ord-om-siden/
+ [2]: {{ site.url }}posts/2006/09/27/noen-ord-om-siden/
