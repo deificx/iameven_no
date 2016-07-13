@@ -14,6 +14,6 @@ Jeg fant ut at jeg gjerne kunne ta noen bilder av leiligheten. I det første bil
 
 Hvorfor leser du egentlig dette. Hvorfor sitter du ikke å spiller [Braid][3]. Spesielt hvis du har en X-box 360 og internet tilgjengelig (som du opplagt nok har siden du leser dette). Braid er et helt fantastisk puzzle og platform spill hvor du må få tak i puslespillbrikker ved å manipulere tid. Det er ingenting annet enn fantastisk. Det er riktignok ganske vanskelig men når du sitter fast kan du spille litt Geometry Wars 2. Har du ikke prøvt det heller? Gjør det, nå. Ikke bare har det 5 nye spillmoduser, men den gamle er perfeksjonert. Jeg er nesten litt glad for at det ikke er noe statistikk som viser til hvor mye tid jeg har brukt på det spillet for det ville garantert hvert flaut å lese. Jeg har spilt det mye mer enn de fleste spillene jeg har kjøpt til 360en, som ikke er arkadespill. Jeg har også to poengsummer som jeg er ganske fornøyd med. 400.000.000 i pasifism og 18.000.000 i waves. Lykke til med å slå de.
 
- [1]: {{ site.url }}posts/2008/08/24/ett-nytt-hjem/
+ [1]: {{ site.url }}/posts/2008/08/24/ett-nytt-hjem/
  [2]: http://hermiene.net/
  [3]: http://braid-game.com/
